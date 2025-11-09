@@ -1,0 +1,16 @@
+{
+  "Modifications": [
+    {
+      "ID": "optifine",
+      "DisplayName": "OptiFine",
+      "Version": "1.12.2_HD_U_G5",
+      "MinecraftVersion": "1.12.2",
+      "RequiresForgeModEngine": false,
+      "RequiresFabricModEngine": false,
+      "URL": "https://github.com/SmuziCodeC/tslauncher-mods/releases/download/optifine-g5forge/OptiFine_1.12.2_HD_U_G5.jar",
+      "Description": "Улучшает FPS, добавляет шейдеры, настройки графики и HD-текстуры.",
+      "Author": "sp614x",
+      "Icon": "https://tlmods.org/files/pictures/logo/52103.png"
+    }
+  ]
+}
